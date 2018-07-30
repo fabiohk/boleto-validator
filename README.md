@@ -80,6 +80,11 @@ boletoValidator.boleto('848200000000 599004020007 002868026006 073377503180')
 boletoValidator.boleto('03399632906400000000600125201020456140000017831')
 ```
 
+# Exemplo rodável
+```
+node example.js
+```
+
 # Referências
 [1] http://www.febraban.org.br/7Rof7SWg6qmyvwJcFwF7I0aSDf9jyV/sitefebraban/Codbar4-v28052004.pdf<br/>
 [2] https://www.bb.com.br/docs/pub/emp/empl/dwn/Doc5175Bloqueto.pdf

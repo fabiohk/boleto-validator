@@ -1,4 +1,4 @@
-var boletoValidator = require('../src/boleto-validator');
+var boletoValidator = require('./src/boleto-validator');
 
 // returns {isValid: true, valor: 178.32, vencimento: "19/02/2013", codigoBarras: "03394561400000178329632964000000000012520102"}
 console.log("boletoValidator.boleto('03399.63290 64000.000006 00125.201020 4 56140000017832')" + ' Returns:')
