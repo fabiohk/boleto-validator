@@ -2,6 +2,19 @@
 
 API para validação de boletos do tipo convênio (composto por 4 blocos de números) [1] e de títulos bancários (composto por 5 campos) [2].
 
+# Dependências
+
+## Para rodar os testes (pasta tests)
+```
+chai: 4.1.2 ou superior
+mocha: 5.2.0 ou superior
+```
+
+## Para rodar o servidor
+```
+body-parser: 1.18.3 ou superior
+express: 4.16.3 ou superior
+```
 # Uso
 
 $ npm app.js
