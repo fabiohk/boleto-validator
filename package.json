@@ -9,9 +9,9 @@
   "author": "fkubo",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "chai": "^4.1.2",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "mocha": "^10.1.0"
   }
 }
